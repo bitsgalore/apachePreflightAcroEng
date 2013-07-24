@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="LabelExample.pdf">
+  <executionTimeMS>2747</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>Failed while validating</message>
+    <stackTrace>org.apache.pdfbox.preflight.exception.ValidationException: Failed while validating&#13;
+	at org.apache.pdfbox.preflight.process.MetadataValidationProcess.validate(MetadataValidationProcess.java:154)&#13;
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)&#13;
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)&#13;
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:168)&#13;
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)&#13;
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)&#13;
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:129)&#13;
+Caused by: org.apache.pdfbox.preflight.exception.ValidationException: Cannot treat Document Information CreationDate property&#13;
+	at org.apache.pdfbox.preflight.metadata.SynchronizedMetaDataValidation.formatAccessException(SynchronizedMetaDataValidation.java:525)&#13;
+	at org.apache.pdfbox.preflight.metadata.SynchronizedMetaDataValidation.analyzeCreationDateProperty(SynchronizedMetaDataValidation.java:352)&#13;
+	at org.apache.pdfbox.preflight.metadata.SynchronizedMetaDataValidation.validateMetadataSynchronization(SynchronizedMetaDataValidation.java:482)&#13;
+	at org.apache.pdfbox.preflight.process.MetadataValidationProcess.validate(MetadataValidationProcess.java:82)&#13;
+	... 6 more&#13;
+Caused by: java.io.IOException: Error converting date:0}í–ä–ä7«Z˘3pä‡Ë½i«d|äóF*{ð÷ý[I'ü(&#13;
+	at org.apache.pdfbox.util.DateConverter.toCalendar(DateConverter.java:294)&#13;
+	at org.apache.pdfbox.util.DateConverter.toCalendar(DateConverter.java:168)&#13;
+	at org.apache.pdfbox.cos.COSDictionary.getDate(COSDictionary.java:797)&#13;
+	at org.apache.pdfbox.pdmodel.PDDocumentInformation.getCreationDate(PDDocumentInformation.java:210)&#13;
+	at org.apache.pdfbox.preflight.metadata.SynchronizedMetaDataValidation.analyzeCreationDateProperty(SynchronizedMetaDataValidation.java:347)&#13;
+	... 8 more&#13;
+</stackTrace>
+  </exceptionThrown>
+</preflight>

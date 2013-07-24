@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="printtestfont_opt.pdf">
+  <executionTimeMS>385</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>Invalid ICC Profile Data</message>
+    <stackTrace>java.lang.IllegalArgumentException: Invalid ICC Profile Data&#13;
+	at java.awt.color.ICC_Profile.getInstance(Unknown Source)&#13;
+	at org.apache.pdfbox.preflight.graphic.StandardColorSpaceHelper.processICCBasedColorSpace(StandardColorSpaceHelper.java:237)&#13;
+	at org.apache.pdfbox.preflight.graphic.StandardColorSpaceHelper.processAllColorSpace(StandardColorSpaceHelper.java:127)&#13;
+	at org.apache.pdfbox.preflight.graphic.StandardColorSpaceHelper.validate(StandardColorSpaceHelper.java:91)&#13;
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validateColorSpaces(SinglePageValidationProcess.java:125)&#13;
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validate(SinglePageValidationProcess.java:81)&#13;
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)&#13;
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:52)&#13;
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validatePage(PageTreeValidationProcess.java:58)&#13;
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validate(PageTreeValidationProcess.java:47)&#13;
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)&#13;
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)&#13;
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:168)&#13;
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)&#13;
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)&#13;
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:129)&#13;
+</stackTrace>
+  </exceptionThrown>
+</preflight>

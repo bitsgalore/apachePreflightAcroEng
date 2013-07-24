@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="TEXT.pdf">
+  <executionTimeMS>3865</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="5489">
+    <error count="1053">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="2013">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="24">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B*" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="31">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="245">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="615">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="186">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="2">
+      <code>5.2.6</code>
+      <details>Forbidden field in an annotation definition</details>
+    </error>
+    <error count="2">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Popup annotation are invalid</details>
+    </error>
+    <error count="2">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Text annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding is invalid for the NonSymbolic TTF</details>
+    </error>
+    <error count="38">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial,Italic</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for CourierNew</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRoman</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial,Bold</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for NewYork</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Monaco</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for ItcEras-Demi</details>
+    </error>
+    <error count="2">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Geneva</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for BitstreamVeraSans-Roman</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for StoneSans-Italic</details>
+    </error>
+    <error count="2">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for StoneSerif-Italic</details>
+    </error>
+    <error count="4">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Present</details>
+    </error>
+    <error count="4">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for PopplResidenz-Light</details>
+    </error>
+    <error count="4">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for ParkAvenue</details>
+    </error>
+    <error count="8">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Parisian</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for MinionMM-Ep_485_SB_465_CN_11_OP</details>
+    </error>
+    <error count="4">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for VivaMM_700_BD_400_CN</details>
+    </error>
+    <error count="8">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for VivaMM</details>
+    </error>
+    <error count="4">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for VivaMM_250_LT_400_CN</details>
+    </error>
+    <error count="4">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for VivaMM_385_RG_400_CN</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for StoneSans-Semibold</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for StoneSans</details>
+    </error>
+    <error count="4">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for StoneSerif</details>
+    </error>
+    <error count="1053">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="122">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>3.2.4</code>
+      <details>Font damaged, The CharProcs references an element which can't be read</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+  </errors>
+</preflight>

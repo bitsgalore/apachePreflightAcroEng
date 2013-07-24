@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="Type3_WWW-HTML.PDF">
+  <executionTimeMS>1474</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1356">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"58" should have a width equals to 15.56599</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"84" should have a width equals to 38.97301</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"108" should have a width equals to 15.56599</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"80" should have a width equals to 38.28101</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"76" should have a width equals to 33.66901</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"123" should have a width equals to 24.38699</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"46" should have a width equals to 15.56599</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"109" should have a width equals to 46.69901</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"77" should have a width equals to 53.15601</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"108" should have a width equals to 19.09399</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"69" should have a width equals to 45.16299</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"48" should have a width equals to 24.38699</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"105" should have a width equals to 19.09399</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"70" should have a width equals to 43.25301</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"47" should have a width equals to 24.38699</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"71" should have a width equals to 54.04601</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"77" should have a width equals to 65.25301</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"57" should have a width equals to 24.38699</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"56" should have a width equals to 24.38699</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"55" should have a width equals to 24.38699</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"53" should have a width equals to 24.38699</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"52" should have a width equals to 24.38699</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"51" should have a width equals to 24.38699</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"50" should have a width equals to 24.38699</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"97" should have a width equals to 33.41499</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"111" should have a width equals to 24.90601</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"78" should have a width equals to 36.20599</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"49" should have a width equals to 24.90601</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"112" should have a width equals to 24.90601</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"100" should have a width equals to 24.90601</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"34" should have a width equals to 24.38699</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"92" should have a width equals to 24.38699</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"68" should have a width equals to 37.24899</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"67" should have a width equals to 35.22501</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"99" should have a width equals to 24.90601</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"87" should have a width equals to 50.11099</details>
+    </error>
+    <error count="52">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"119" should have a width equals to 35.22501</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"103" should have a width equals to 24.38699</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"76" should have a width equals to 30.47501</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"99" should have a width equals to 30.55099</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"116" should have a width equals to 26.73199</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"73" should have a width equals to 26.06799</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"49" should have a width equals to 24.38699</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"54" should have a width equals to 24.38699</details>
+    </error>
+    <error count="408">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"111" should have a width equals to 24.38699</details>
+    </error>
+    <error count="90">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"84" should have a width equals to 35.22501</details>
+    </error>
+    <error count="328">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"97" should have a width equals to 24.38699</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"77" should have a width equals to 60.97301</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"116" should have a width equals to 25.40199</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"114" should have a width equals to 25.40199</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"73" should have a width equals to 23.49899</details>
+    </error>
+    <error count="206">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="6">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

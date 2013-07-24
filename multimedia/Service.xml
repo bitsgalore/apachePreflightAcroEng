@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="Service">
+  <executionTimeMS>43</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>E:\pdfAcrobatEngineering\multimedia\Service (The system cannot find the file specified)</message>
+    <stackTrace>java.io.FileNotFoundException: E:\pdfAcrobatEngineering\multimedia\Service (The system cannot find the file specified)&#13;
+	at java.io.FileInputStream.open(Native Method)&#13;
+	at java.io.FileInputStream.&lt;init&gt;(Unknown Source)&#13;
+	at javax.activation.FileDataSource.getInputStream(Unknown Source)&#13;
+	at org.apache.pdfbox.preflight.parser.PreflightParser.&lt;init&gt;(PreflightParser.java:124)&#13;
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:63)&#13;
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)&#13;
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:129)&#13;
+</stackTrace>
+  </exceptionThrown>
+</preflight>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="SVG-AnnotAnim.pdf">
+  <executionTimeMS>816</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="5">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>5.2.1</code>
+      <details>Forbidden field in an annotation definition, The subtype isn't authorized : SVG</details>
+    </error>
+    <error count="1">
+      <code>1.2.9</code>
+      <details>Body Syntax error, EmbeddedFile entry is present in a FileSpecification dictionary</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, Second line must contains at least 4 bytes greater than 127</details>
+    </error>
+  </errors>
+</preflight>
