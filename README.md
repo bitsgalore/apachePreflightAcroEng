@@ -6,7 +6,7 @@ This repo contains output files of Apache Preflight 2.0.0 (part of the [PDFBox](
 1. all files in the *General* section of the [Font Testing](http://acroeng.adobe.com/wp/?page_id=101) category;
 2. all files in the *Classic Multimedia* section of the [Multimedia & 3D Tests](http://acroeng.adobe.com/wp/?page_id=61) category (and a couple of files in the *3D* section as well).
 
-Results obtained using Apache Prelight version 2.0.0.
+Results obtained with Apache Prelight version 2.0.0 using *xml* output switch.
 
 For a discussion of these results, see this blog post:
 
