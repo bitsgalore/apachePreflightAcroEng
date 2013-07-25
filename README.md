@@ -19,8 +19,9 @@ Software versions:
 
 Acrobat Preflight output in PDF format; Apache Preflight output in XML format. 
 
-For a discussion of these results, see this blog post:
+For a discussion of these results, see my  blog post *Identification of PDF preservation risks: the sequel*:
 
-[Insert Title](http://www.openplanetsfoundation.org/blogs/2013-07-24-modify-this-link)
+
+[http://www.openplanetsfoundation.org/blogs/2013-07-25-identification-pdf-preservation-risks-sequel](http://www.openplanetsfoundation.org/blogs/2013-07-25-identification-pdf-preservation-risks-sequel)
 
 
