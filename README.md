@@ -1,6 +1,6 @@
 # Apache Preflight analysis Adobe Acrobat Engineering PDFs
 
-## Contents of this repo
+
 This repo contains output files of Adobe Acrobat Preflight and Apache Preflight (part of the [PDFBox](http://pdfbox.apache.org/) library) for a selection of the test PDFs on [Adobe's Acrobat Engineering website](http://acroeng.adobe.com/wp/). The following files were analysed:
 
 1. all files in the *General* section of the [Font Testing](http://acroeng.adobe.com/wp/?page_id=101) category;
